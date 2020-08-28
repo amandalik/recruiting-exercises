@@ -27,6 +27,10 @@ You can assume that the list of warehouses is pre-sorted based on cost. The firs
 
 You can use any language of your choice to write the solution (internally we use Typescript/Javascript, Python, and some Java). Please write unit tests with your code, a few are mentioned below, but these are not comprehensive. Fork the repository and put your solution inside of the src directory and include a way to run your tests!
 
+### Run my Code
+
+    python3 run_tests.py
+
 ### Examples
 
 *Happy Case, exact inventory match!**
